@@ -57,7 +57,7 @@ To get started with the project, follow these steps:
    ```
 
 4. **Open your browser:**
-   Navigate to `http://localhost:3001` to view the application.
+   Navigate to `http://localhost:3000` to view the application.
 
 ## Features
 
